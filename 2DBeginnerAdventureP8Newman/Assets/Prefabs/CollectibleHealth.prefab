@@ -144,6 +144,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91054d476b094d0468d461a4d8d77391, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  collectedClip: {fileID: 8300000, guid: 173a14cf06354c643b46b235f2a4f974, type: 3}
 --- !u!1001 &5676199588414095770
 PrefabInstance:
   m_ObjectHideFlags: 0
